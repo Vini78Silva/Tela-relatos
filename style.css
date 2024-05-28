@@ -1,0 +1,83 @@
+.container-fluid{
+    background-color: #69C0FF;
+    height: 20vh;
+    margin-top: -1%;
+}
+
+.navbar-brand{
+    margin-left: 10vh;
+    margin-right: 20vh;
+    font-size: 10vh;
+    font-weight: 750;
+}
+
+.logo-brand{
+    margin-left: 10vh;
+    height: 15vh;
+}
+
+.text-relate{
+    font-weight: 900;
+    margin-left: 25vh;
+}
+
+.text-relate-p{
+    margin-left: 25vh;
+    font-weight: 400;
+    margin-top: 3vh;
+}
+
+.inputs input, textarea{
+    margin-top: 3vh;
+    margin-left: 11%;
+    border-radius: 5px;
+    height: 6vh;
+}
+
+#I2{
+    margin-left: 5vh;    
+}
+
+#I3{
+    margin-top: 5vh;
+    width: 60vh;
+}
+
+#I4{
+    margin-top: 5vh;
+    width: 60vh;
+    height: 20vh;
+}
+
+#I5{
+    margin-top: 5vh;
+    width: 60vh;
+    height: 5vh;
+    background-color: blue;
+    color: #ffff;
+    border: none;
+    border-radius: 5px;
+}
+
+#img-side{
+    position: absolute;
+    top: 22vh;
+    left: 120vh;
+    height: 75vh;
+    width: 95vh;
+    border-radius: 10px;
+}
+
+#perfil-img{
+    position: absolute;
+    height: 10vh;
+    border-radius: 100px;
+    left: 85%;
+    align-items: center; 
+}
+
+#voltar{
+    color: #ffff;
+    font-weight: 650;
+    align-items: center;
+}
